@@ -12,4 +12,5 @@ A Simple AI Roleplay bot made in Python using ollama (Free to use! just use cred
 7. Change DEFAULT_MODEL to Your model that you installed
 8. Open run.bat and enjoy!
 
-This project has alot of bugs, Do i feel like fixing it? no. (fix it yourself, lmao.)
+# How to make your own bot
+It's easy, Just open BotInfo.json and Change anything you want to. (You can change the colors of the bot by going to bot.py and scroll down to line 57 *Sometimes, some colors will crash your program. for some reason.*)
